@@ -1,4 +1,4 @@
-# Secure Development Examples
+# Secure Web Development Examples
 
 <img src="https://raw.githubusercontent.com/cr0wg4n/secure-web-development/main/doc/images/banner.png" width="100%">
 
