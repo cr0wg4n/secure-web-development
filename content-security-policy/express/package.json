@@ -1,0 +1,13 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "type": "module",
+  "scripts": {
+    "start:bad": "node ./bad/index.js",
+    "start:good": "node ./good/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
