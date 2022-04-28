@@ -6,3 +6,9 @@ Web development is a very tangled concept, this is a repository-guide to write s
 Mainly focused on Javascript ecosystem (node.js, vue.js and some others). Enjoy it!.
 
 Each directory has a technology and inside GOOD and BAD examples, try to being a bad and good developer if you have more scenarios.
+
+
+### Content
+
+1. [Content Security Policy](https://github.com/cr0wg4n/secure-web-development/tree/main/content-security-policy)
+2. 
