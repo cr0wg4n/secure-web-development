@@ -24,5 +24,3 @@ app.get('/',(request, response)=>{
 app.listen(8080, ()=>{
     console.log('starting GOOD at http://localhost:8080')
 })
-
-// app.use(express.static())
