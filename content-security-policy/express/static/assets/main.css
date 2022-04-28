@@ -1,0 +1,15 @@
+* {
+    margin: 20px;
+    padding: 0;
+    font-family: 'Tangerine', 'Times New Roman';
+    font-size: 30px;
+    color: white;
+    background-color: rgb(1, 8, 1);
+}
+
+.image-centered {  
+    text-align: center;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
