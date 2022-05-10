@@ -14,7 +14,7 @@ app.use(express.static(join(__dirname,'../static/assets')))
 app.use(function (req, res, next) {
     res.setHeader(
         'Content-Security-Policy',
-        `default-src 'self'; font-src 'self' https://fonts.gstatic.com; img-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; frame-src 'self'; report-uri /report-violation;`
+        `default-src 'self'; script-src 'self' 'nonce-uasdimAsNXCzP5AG6Rvux'; font-src 'self' https://fonts.gstatic.com; img-src 'self'; style-src 'self' https://fonts.googleapis.com; frame-src 'self'; report-uri /report-violation;`
     );
     next();
 });
